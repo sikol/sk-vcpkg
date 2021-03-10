@@ -1,0 +1,6 @@
+{
+  "name": "sk-error",
+  "version": "1.0.0",
+  "description": "Value error for std::exception",
+  "homepage": "https://github.com/sikol/sk-error"
+}
