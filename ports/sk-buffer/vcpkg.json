@@ -1,0 +1,6 @@
+{
+  "name": "sk-buffer",
+  "version": "1.0.0",
+  "description": "Zero-copy I/O buffers",
+  "homepage": "https://github.com/sikol/sk-buffer"
+}
