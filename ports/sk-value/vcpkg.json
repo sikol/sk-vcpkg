@@ -1,0 +1,6 @@
+{
+  "name": "sk-value",
+  "version": "1.0.0",
+  "description": "Type-erasing scalar container",
+  "homepage": "https://github.com/sikol/sk-value"
+}

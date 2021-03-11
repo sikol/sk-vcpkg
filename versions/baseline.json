@@ -11,6 +11,10 @@
     "sk-lazy": {
       "baseline": "1.0.0",
       "port-version":  0
+    },
+    "sk-value": {
+      "baseline": "1.0.0",
+      "port-version":  0
     }
   }
 }
