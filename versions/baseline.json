@@ -3,6 +3,10 @@
     "sk-error": {
       "baseline": "1.0.0",
       "port-version": 0
+    },
+    "sk-buffer": {
+      "baseline": "1.0.0",
+      "port-version": 0
     }
   }
 }
