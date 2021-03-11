@@ -7,6 +7,10 @@
     "sk-buffer": {
       "baseline": "1.0.0",
       "port-version": 0
+    },
+    "sk-lazy": {
+      "baseline": "1.0.0",
+      "port-version":  0
     }
   }
 }

@@ -1,0 +1,6 @@
+{
+  "name": "sk-lazy",
+  "version": "1.0.0",
+  "description": "Cached lazy function evaluation",
+  "homepage": "https://github.com/sikol/sk-lazy"
+}
